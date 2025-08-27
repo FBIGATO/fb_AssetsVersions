@@ -1,1 +1,1 @@
-{"version":"0.0.1","news":"Version Inicial"}
+{"version":"0.0.2","news":"Se agregó soporte para íconos Font Awesome en el HUD de zonas (Segura, Roja, Carga), mejorando la visualización con símbolos dinámicos. También se optimizó el sistema de notificaciones para mostrar ícono, color y texto de forma más profesional."}
